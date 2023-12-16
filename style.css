@@ -74,7 +74,9 @@
   background-color: white;
 }
 
-
+.c-text-wrap{
+  text-wrap: wrap!important;
+}
 
 .typewriter h1 {
   position: absolute;
@@ -83,6 +85,7 @@
   align-content: center;
   display: flex;
   width:50%;
+  text-wrap: wrap;
 
   text-shadow: 0 13.36px 8.896px #2c482e, 0 -2px 1px #457b9d;
   letter-spacing: -4px;
